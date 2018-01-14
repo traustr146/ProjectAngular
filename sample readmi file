@@ -3,4 +3,9 @@ sample readmi file
 
 this is a new statement.
 
+<<<<<<< HEAD
 This is second statement.
+=======
+
+multipled changes
+>>>>>>> c053ecef36f33be8b814ce7a06758d50ec719fcf
